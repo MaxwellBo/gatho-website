@@ -17,7 +17,7 @@ brew services start postgresql
 ```
 
 Or, if you don't want/need a background service you can just run:              
-  /opt/homebrew/opt/postgresql/bin/postgres -D /opt/homebrew/var/postgres
+  `/opt/homebrew/opt/postgresql/bin/postgres -D /opt/homebrew/var/postgres`
 
 # Postgres Linux installation
 
